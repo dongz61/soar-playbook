@@ -8,3 +8,7 @@ Scripts, runbooks, experiment records, and submission templates for SOAR GPU val
 - `docs/`: runbook, code map, and experiment table.
 - `runs/`: per-run logs and artifacts. Keep large outputs out of git.
 - `submission/`: submission package templates.
+
+## Runbooks
+
+- `docs/gpu_playbook.md`: GPU 验证流程。
